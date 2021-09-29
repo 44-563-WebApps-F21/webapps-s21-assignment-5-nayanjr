@@ -1,3 +1,3 @@
 # WebApps-Assignment-5 Starter Code
 
-[hosted at](https://github.com/44-563-WebApps-F21/webapps-f21-assignment-4-nayanjr)
+[hosted at](https://44-563-webapps-f21.github.io/webapps-s21-assignment-5-nayanjr/animals.html)
